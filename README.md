@@ -39,39 +39,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-📌 Featured Projects
-
-🏭 idea_erp
-
-Custom Frappe/ERPNext-based ERP for an urban-furniture and metal/wood architecture manufacturer.
-Built the data model (Machines, Materials, Employees, Workshops, Production Orders), status-transition
-validation, automatic stock deduction on production, and custom API tooling for external integrations.
-
-
-Python · Frappe Framework · JavaScript · Vue.js · REST API
-
-
-
-⛏️ miner
-
-A polished, mining-industry themed landing page with a CSS-animated hero section and a modern,
-responsive layout — built for speed and clean design.
-
-
-React · Vite · TailwindCSS
-
-
-
-
-📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlizaminFatullayev&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlizaminFatullayev&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlizaminFatullayev&theme=react&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" />
-</p>
 
 🤝 Connect With Me
 
