@@ -1,27 +1,31 @@
 <h1 align="center">Hi 👋, I'm Alizamin Fatullayev</h1>
+
 <h3 align="center">Frontend & Full-Stack Developer — React · React Native · Frappe/Python</h3>
+
 <p align="center">
   <a href="https://github.com/AlizaminFatullayev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=520&lines=Building+with+React+%26+React+Native;Custom+ERP+systems+on+Frappe+%2F+Python;Clean+UI%2C+solid+APIs%2C+shipped+products" alt="Typing SVG" />
   </a>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlizaminFatullayev&label=Profile%20views&color=61DAFB&style=flat" alt="profile views" />
 </p>
 
-🚀 About Me
+---
 
+## 🚀 About Me
 
-🛠️ Currently building a custom Frappe-based ERP system at IDEA | Versatile Imaginations (Baku) — production orders, stock logic, status workflows, and API tooling.
-⚛️ Frontend specialist with a strong React background — components, responsive UI, API integration, and clean UX.
-📱 Growing into React Native for cross-platform mobile development.
-🧩 Comfortable across the stack: from Vue.js Desk customization in Frappe to Python backend controllers and REST APIs.
-🌍 Based in Azerbaijan 🇦🇿 — open to React / React Native developer opportunities.
-💬 Ask me about React, component architecture, or integrating custom logic into Frappe/ERPNext.
+- 🛠️ Currently building a **custom Frappe-based ERP system** at **IDEA | Versatile Imaginations** (Baku) — production orders, stock logic, status workflows, and API tooling.
+- ⚛️ **Frontend specialist** with a strong React background — components, responsive UI, API integration, and clean UX.
+- 📱 Growing into **React Native** for cross-platform mobile development.
+- 🧩 Comfortable across the stack: from Vue.js Desk customization in Frappe to Python backend controllers and REST APIs.
+- 🌍 Based in **Azerbaijan** 🇦🇿 — open to **React / React Native developer** opportunities.
+- 💬 Ask me about React, component architecture, or integrating custom logic into Frappe/ERPNext.
 
+---
 
-
-🧰 Tech Stack
+## 🧰 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -39,26 +43,28 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+---
 
-🤝 Connect With Me
+## 🤝 Connect With Me
 
-<!-- Replace the placeholders below with your real links before publishing -->
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/alizaminfatullayev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:alizaminfatullayev100@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/AlizaminFatullayev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://t.me/YOUR-TELEGRAM">
+  <a href="https://t.me/alizaminfatullayev">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR-HANDLE">
+  <a href="https://x.com/alizaminvs">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
+
+---
 
 <p align="center"><i>“Learn a concept, build a small thing, test it, ship it.”</i></p>
